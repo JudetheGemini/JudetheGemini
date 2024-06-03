@@ -12,16 +12,12 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Jude</a></b>
+                <b>Jude</b>
         </samp>
 </h3>
 
@@ -36,9 +32,6 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
  <a href="https://linkedin.com/in/jude-okorie" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
@@ -65,7 +58,6 @@
  📧 &emsp; Reach me anytime: judeokorieify@gmail.com<br/>
 </p>
 
-<br/>
 <br/>
 <br/>
 
