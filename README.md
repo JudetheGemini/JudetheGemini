@@ -1,6 +1,6 @@
 # Hi, I'm Jude Okorie! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software & Cloud Native Engineer** with a strong background in software engineering, networking, and DevOps practices. My journey in tech has been driven by a love for building efficient, scalable, and reliable systems. Here's a bit about me and what I do:
+Welcome to my GitHub profile! I'm a passionate **Software & Cloud Engineer** with a strong background in software engineering, networking, and DevOps practices. My journey in tech has been driven by a love for building efficient, scalable, and reliable systems. Here's a bit about me and what I do:
 
 ## 🚀 About Me
 
